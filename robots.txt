@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://presidents.tier-list-maker.com/sitemap.xml
